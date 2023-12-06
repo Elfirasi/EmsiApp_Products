@@ -1,5 +1,17 @@
 # EmsiApp
 
+Info sur l'app: Chaque Produit est défini par son id, name, price, quantity, available. Le backend de l'application est basé sur une REST API basée sur Json-Server
+
+L'application doit permettre de :
+    - Afficher les produits
+    - Chercher les produits
+    - Faire la pagination
+    - Supprimer un produits
+    - Editer un produit
+    - Mettre à jour un produit
+    - Faire l'authentification et protéger les routes
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
